@@ -1,0 +1,29 @@
+#  IntelliJ IDEA  #
+# =============== #
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+# Compiled Files  #
+# =============== #
+*.class
+
+
+#  Build Folders  #
+# =============== #
+/out/
+/target/
+/build/
+
+
+#    OS Files     #
+# =============== #
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
