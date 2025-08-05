@@ -4,6 +4,8 @@ Projeto desenvolvido como parte do **Challenge Conversor de Moedas** da platafor
 
 Este é um aplicativo de console em Java que permite converter valores entre diferentes moedas em tempo real, utilizando a API pública da [ExchangeRate-API](https://www.exchangerate-api.com/).
 
+<img width="500" height="500" alt="Badge do Desafio Conversor de Moedas" src="https://github.com/user-attachments/assets/7e5fbe19-484b-42b3-a7e5-6e727835a15f" />
+
 
 ## 🚀 Funcionalidades
 
